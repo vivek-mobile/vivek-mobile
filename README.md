@@ -144,14 +144,11 @@ Build for the real world, not just the happy path.
 * Ship small, reliable changes.
 
 ⸻
+## 📫 Connect
 
-📊 GitHub Stats
-
-⸻
-
-📫 Connect
-
-💼 LinkedIn · 🐙 GitHub · 📧 Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Kumar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vivekkr05/)
+[![GitHub](https://img.shields.io/badge/GitHub-vivek-black?style=flat&logo=github)](https://github.com/vivek-mobile)
+[![Email](https://img.shields.io/badge/Email-vivekkumar0529@gmail.com-red?style=flat&logo=gmail)](mailto:vivekkumar0529@gmail.com)
 
 ⸻
 
